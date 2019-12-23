@@ -1,0 +1,6 @@
+C:\Users\kevizy\Desktop\C# stuff\Get_Time_With_Overloaded_Constructor\bin\Debug\Get_Time_With_Overloaded_Constructor.exe.config
+C:\Users\kevizy\Desktop\C# stuff\Get_Time_With_Overloaded_Constructor\bin\Debug\Get_Time_With_Overloaded_Constructor.exe
+C:\Users\kevizy\Desktop\C# stuff\Get_Time_With_Overloaded_Constructor\bin\Debug\Get_Time_With_Overloaded_Constructor.pdb
+C:\Users\kevizy\Desktop\C# stuff\Get_Time_With_Overloaded_Constructor\obj\Debug\Get_Time_With_Overloaded_Constructor.csprojAssemblyReference.cache
+C:\Users\kevizy\Desktop\C# stuff\Get_Time_With_Overloaded_Constructor\obj\Debug\Get_Time_With_Overloaded_Constructor.exe
+C:\Users\kevizy\Desktop\C# stuff\Get_Time_With_Overloaded_Constructor\obj\Debug\Get_Time_With_Overloaded_Constructor.pdb
