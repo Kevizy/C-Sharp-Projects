@@ -1,0 +1,7 @@
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\In Class 10072019\ProjectA\obj\Debug\ProjectA.pdb
