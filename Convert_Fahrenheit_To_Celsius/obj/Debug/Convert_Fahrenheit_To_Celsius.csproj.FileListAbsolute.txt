@@ -1,0 +1,6 @@
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Convert_Fahrenheit_To_Celsius\bin\Debug\Convert_Fahrenheit_To_Celsius.exe.config
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Convert_Fahrenheit_To_Celsius\bin\Debug\Convert_Fahrenheit_To_Celsius.exe
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Convert_Fahrenheit_To_Celsius\bin\Debug\Convert_Fahrenheit_To_Celsius.pdb
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Convert_Fahrenheit_To_Celsius\obj\Debug\Convert_Fahrenheit_To_Celsius.csprojAssemblyReference.cache
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Convert_Fahrenheit_To_Celsius\obj\Debug\Convert_Fahrenheit_To_Celsius.exe
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Convert_Fahrenheit_To_Celsius\obj\Debug\Convert_Fahrenheit_To_Celsius.pdb
