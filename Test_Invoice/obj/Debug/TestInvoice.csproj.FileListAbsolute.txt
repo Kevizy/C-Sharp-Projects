@@ -1,0 +1,14 @@
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\bin\Debug\TestInvoice.exe.config
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\bin\Debug\TestInvoice.exe
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\bin\Debug\TestInvoice.pdb
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\obj\Debug\TestInvoice.csprojAssemblyReference.cache
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\obj\Debug\TestInvoice.csproj.CoreCompileInputs.cache
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\obj\Debug\TestInvoice.exe
+E:\College 2019\Fall 2019\CIT 134\Chapter Three In Class\TestInvoice\obj\Debug\TestInvoice.pdb
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\bin\Debug\TestInvoice.exe.config
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\bin\Debug\TestInvoice.exe
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\bin\Debug\TestInvoice.pdb
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\obj\Debug\TestInvoice.csprojAssemblyReference.cache
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\obj\Debug\TestInvoice.csproj.CoreCompileInputs.cache
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\obj\Debug\TestInvoice.exe
+C:\Users\kevizy\Downloads\TestInvoice\TestInvoice\obj\Debug\TestInvoice.pdb
