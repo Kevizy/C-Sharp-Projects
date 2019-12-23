@@ -1,0 +1,6 @@
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Chapter_Eight_Exercises\Chapter_Eight_Exercise_Three\bin\Debug\Chapter_Eight_Exercise_Three.exe.config
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Chapter_Eight_Exercises\Chapter_Eight_Exercise_Three\bin\Debug\Chapter_Eight_Exercise_Three.exe
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Chapter_Eight_Exercises\Chapter_Eight_Exercise_Three\bin\Debug\Chapter_Eight_Exercise_Three.pdb
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Chapter_Eight_Exercises\Chapter_Eight_Exercise_Three\obj\Debug\Chapter_Eight_Exercise_Three.csprojAssemblyReference.cache
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Chapter_Eight_Exercises\Chapter_Eight_Exercise_Three\obj\Debug\Chapter_Eight_Exercise_Three.exe
+C:\Users\kevizy\Desktop\College 2019\Fall 2019\CIT 134\Chapter_Eight_Exercises\Chapter_Eight_Exercise_Three\obj\Debug\Chapter_Eight_Exercise_Three.pdb

@@ -1,0 +1,1 @@
+A program that uses a 2 dimensional array to create 10 rows and 12 colums and fills them up with random numbers.
