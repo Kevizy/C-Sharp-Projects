@@ -1,0 +1,9 @@
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\bin\Debug\Pizza_Order_Form.exe.config
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\bin\Debug\Pizza_Order_Form.exe
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\bin\Debug\Pizza_Order_Form.pdb
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\obj\Debug\Pizza_Order_Form.csprojAssemblyReference.cache
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\obj\Debug\Pizza_Order_Form.Form1.resources
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\obj\Debug\Pizza_Order_Form.Properties.Resources.resources
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\obj\Debug\Pizza_Order_Form.csproj.GenerateResource.cache
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\obj\Debug\Pizza_Order_Form.exe
+C:\Users\Other User\Desktop\C# Stuff\Pizza_Order_Form\obj\Debug\Pizza_Order_Form.pdb
