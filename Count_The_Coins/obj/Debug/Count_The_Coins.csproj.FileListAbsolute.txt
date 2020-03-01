@@ -1,0 +1,9 @@
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\bin\Debug\Count_The_Coins.exe.config
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\bin\Debug\Count_The_Coins.exe
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\bin\Debug\Count_The_Coins.pdb
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\obj\Debug\Count_The_Coins.csprojAssemblyReference.cache
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\obj\Debug\Count_The_Coins.Form1.resources
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\obj\Debug\Count_The_Coins.Properties.Resources.resources
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\obj\Debug\Count_The_Coins.csproj.GenerateResource.cache
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\obj\Debug\Count_The_Coins.exe
+C:\Users\Other User\Desktop\C# Stuff\Count_The_Coins\obj\Debug\Count_The_Coins.pdb
