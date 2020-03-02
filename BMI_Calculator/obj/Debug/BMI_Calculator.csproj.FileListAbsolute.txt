@@ -1,0 +1,9 @@
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\obj\Debug\BMI_Calculator.csprojAssemblyReference.cache
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.cache
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\Other User\Desktop\C# Stuff\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
