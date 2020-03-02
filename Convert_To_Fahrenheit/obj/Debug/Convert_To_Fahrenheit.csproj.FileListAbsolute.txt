@@ -1,0 +1,9 @@
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\bin\Debug\Convert_To_Fahrenheit.exe.config
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\bin\Debug\Convert_To_Fahrenheit.exe
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\bin\Debug\Convert_To_Fahrenheit.pdb
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\obj\Debug\Convert_To_Fahrenheit.csprojAssemblyReference.cache
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\obj\Debug\Convert_To_Fahrenheit.Form1.resources
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\obj\Debug\Convert_To_Fahrenheit.Properties.Resources.resources
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\obj\Debug\Convert_To_Fahrenheit.csproj.GenerateResource.cache
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\obj\Debug\Convert_To_Fahrenheit.exe
+C:\Users\Other User\Desktop\C# Stuff\Convert_To_Fahrenheit\obj\Debug\Convert_To_Fahrenheit.pdb
