@@ -1,9 +1,0 @@
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\bin\Debug\Chapter12 Interface.exe.config
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\bin\Debug\Chapter12 Interface.exe
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\bin\Debug\Chapter12 Interface.pdb
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\obj\Debug\Chapter12 Interface.csprojAssemblyReference.cache
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\obj\Debug\Chapter12_Interface.Form1.resources
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\obj\Debug\Chapter12_Interface.Properties.Resources.resources
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\obj\Debug\Chapter12 Interface.csproj.GenerateResource.cache
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\obj\Debug\Chapter12 Interface.exe
-C:\Users\kev\Desktop\C# Stuff\Chapter 12 Stuff\Chapter12 Interface\obj\Debug\Chapter12 Interface.pdb
