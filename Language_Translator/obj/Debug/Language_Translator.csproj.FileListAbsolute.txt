@@ -1,0 +1,10 @@
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\bin\Debug\Language_Translator.exe.config
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\bin\Debug\Language_Translator.exe
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\bin\Debug\Language_Translator.pdb
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.Form1.resources
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.exe
+C:\Users\Kevin\Desktop\C# stuff\Language_Translator\obj\Debug\Language_Translator.pdb
