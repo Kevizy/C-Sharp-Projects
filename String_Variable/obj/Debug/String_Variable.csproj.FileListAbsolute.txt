@@ -1,0 +1,10 @@
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\bin\Debug\String_Variable.exe.config
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\bin\Debug\String_Variable.exe
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\bin\Debug\String_Variable.pdb
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.Form1.resources
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.Properties.Resources.resources
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.exe
+C:\Users\Kevin\Desktop\C# stuff\String_Variable\obj\Debug\String_Variable.pdb
