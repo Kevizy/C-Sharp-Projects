@@ -1,0 +1,1 @@
+This program has the user enter a First Name, Last Name, and a Phone number. It uses a StreamWriter to output the data into a file.  
