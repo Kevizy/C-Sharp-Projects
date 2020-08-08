@@ -1,0 +1,10 @@
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\bin\Debug\File_Reader.exe.config
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\bin\Debug\File_Reader.exe
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\bin\Debug\File_Reader.pdb
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.Form1.resources
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.Properties.Resources.resources
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.exe
+C:\Users\Kevin\Desktop\C# stuff\File_Reader\obj\Debug\File_Reader.pdb
