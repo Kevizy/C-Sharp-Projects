@@ -1,0 +1,7 @@
+C:\Users\Kevin\Desktop\C# stuff\User_Login\bin\Debug\User_Login.exe.config
+C:\Users\Kevin\Desktop\C# stuff\User_Login\bin\Debug\User_Login.exe
+C:\Users\Kevin\Desktop\C# stuff\User_Login\bin\Debug\User_Login.pdb
+C:\Users\Kevin\Desktop\C# stuff\User_Login\obj\Debug\User_Login.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\C# stuff\User_Login\obj\Debug\User_Login.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\C# stuff\User_Login\obj\Debug\User_Login.exe
+C:\Users\Kevin\Desktop\C# stuff\User_Login\obj\Debug\User_Login.pdb
